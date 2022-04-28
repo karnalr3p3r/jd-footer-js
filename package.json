@@ -1,0 +1,25 @@
+{
+  "name": "jd-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated on JS apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karnalr3p3r/jd-footer-js.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "devereauxma97 <devereauxma97@gmail.com> (https://www.npmjs.com/~devereauxma97)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karnalr3p3r/jd-footer-js/issues"
+  },
+  "homepage": "https://github.com/karnalr3p3r/jd-footer-js#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
